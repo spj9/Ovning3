@@ -26,7 +26,7 @@ internal class Program
 //3.2 Polymorfism
 var userErrorList = new List<UserError>();
     userErrorList.AddRange([new NumericInputError(), new TextInputError()]);
-    
+    userErrorList.ForEach(error => Console.WriteLine(error.Message));   
 
 //3.3 Arv
 
