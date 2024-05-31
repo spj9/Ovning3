@@ -1,15 +1,15 @@
 ﻿using System;
 
-//Person-klassen
+//Skapa en klass Person och ge den följande privata fält: age, fName, lName, height, weight
 public class Person
 {
     private int _age;
-    private string _fName;
-    private string _lName;
+    private string? _fName;
+    private string? _lName;
     private int _height;
     private int _weight;
 
-    public Person()
+    public Person(string fName, string lName)
 	{
         FName = fName;
         LName = lName;

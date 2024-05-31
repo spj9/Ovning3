@@ -1,0 +1,15 @@
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.AssemblyInfoInputs.cache
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.AssemblyInfo.cs
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.csproj.CoreCompileInputs.cache
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.sourcelink.json
+E:\Repos\Ovning3\Ovning3\bin\Debug\net8.0\Ovning3.exe
+E:\Repos\Ovning3\Ovning3\bin\Debug\net8.0\Ovning3.deps.json
+E:\Repos\Ovning3\Ovning3\bin\Debug\net8.0\Ovning3.runtimeconfig.json
+E:\Repos\Ovning3\Ovning3\bin\Debug\net8.0\Ovning3.dll
+E:\Repos\Ovning3\Ovning3\bin\Debug\net8.0\Ovning3.pdb
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.dll
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\refint\Ovning3.dll
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.pdb
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\Ovning3.genruntimeconfig.cache
+E:\Repos\Ovning3\Ovning3\obj\Debug\net8.0\ref\Ovning3.dll

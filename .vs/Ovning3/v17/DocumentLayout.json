@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Repos\\Ovning3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF4F22D4-B55A-4129-8274-C82C988D05B4}|Ovning3\\Ovning3.csproj|e:\\repos\\ovning3\\ovning3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF4F22D4-B55A-4129-8274-C82C988D05B4}|Ovning3\\Ovning3.csproj|solutionrelative:ovning3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Repos\\Ovning3\\Ovning3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ovning3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Repos\\Ovning3\\Ovning3\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ovning3\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Repos\\Ovning3\\Ovning3\\PersonHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ovning3\\PersonHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonHandler.cs",
+              "DocumentMoniker": "E:\\Repos\\Ovning3\\Ovning3\\PersonHandler.cs",
+              "RelativeDocumentMoniker": "Ovning3\\PersonHandler.cs",
+              "ToolTip": "E:\\Repos\\Ovning3\\Ovning3\\PersonHandler.cs",
+              "RelativeToolTip": "Ovning3\\PersonHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:09:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Repos\\Ovning3\\Ovning3\\Person.cs",
+              "RelativeDocumentMoniker": "Ovning3\\Person.cs",
+              "ToolTip": "E:\\Repos\\Ovning3\\Ovning3\\Person.cs",
+              "RelativeToolTip": "Ovning3\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:30:22.712Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Ovning3\\Program.cs",
               "ToolTip": "E:\\Repos\\Ovning3\\Ovning3\\Program.cs",
               "RelativeToolTip": "Ovning3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T06:49:29.986Z",
               "EditorCaption": ""
