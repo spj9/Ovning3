@@ -6,8 +6,8 @@ public class Person
     private int _age;
     private string? _fName;
     private string? _lName;
-    private int _height;
-    private int _weight;
+    private double _height;
+    private double _weight;
 
     public Person(string fName, string lName)
 	{
@@ -61,14 +61,14 @@ public class Person
     }
 
     //Height
-    public int Height
+    public double Height
     {
         get => _height;
         set => _height = value;
     }
 
     //Weight
-    public int Weight
+    public double Weight
     {
         get => _weight;
         set => _weight = value;

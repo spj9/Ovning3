@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ovning3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18df3cf19844329c5d5a9ad4f69599540a891d3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c1b663216a0f815909bd229604c22bc45f87a5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ovning3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ovning3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

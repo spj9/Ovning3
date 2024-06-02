@@ -8,17 +8,17 @@ public class PersonHandler
         pers.Age = age;
     }
 
-    public void SetWeight(Person pers, int weight)
+    public void SetWeight(Person pers, double weight)
     {
         pers.Weight = weight;
     }
 
-    public void SetHeight(Person pers, int height)
+    public void SetHeight(Person pers, double height)
     {
         pers.Height = height;
     }
 
-    public Person CreatePerson(int age, string fname, string lname, int height, int weight)
+    public Person CreatePerson(int age, string fname, string lname, double height, double weight)
     {
         return new Person(fname, lname)
         {
