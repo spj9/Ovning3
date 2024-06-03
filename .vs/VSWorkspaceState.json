@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ovning3"
+    "\\Ovning3",
+    "\\Ovning3\\Animal",
+    "\\Ovning3\\ErrorHandling"
   ],
   "SelectedNode": "\\Ovning3\\Program.cs",
   "PreviewInSolutionExplorer": false

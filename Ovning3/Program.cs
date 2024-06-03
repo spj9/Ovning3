@@ -64,7 +64,10 @@ var dogs = new List<Dog>();
 // (13) När metoden Stats anropas på varje Animal-objekt blir det den mest specifika versionen av Stats som anropas.
 animals.ForEach(a => System.Console.WriteLine(a.Stats()));
 
+animals.ForEach(a => { if (a is Dog) { System.Console.WriteLine(a.Stats()); } });
+
 // (17) Vi kommer inte åt metoden ExerciseTime eftersom den är unik för endast klassen Dog.
 //      För att komma åt den unika metoden kan vi iterera över listan Animals och kontrollera om typen är Dog och isf casta mha nyceklordet 'as' och kalla metoden ExerciseTime.
 //      Enligt följande:
 animals.ForEach(a => { if (a is Dog) { System.Console.WriteLine((a as Dog).ExerciseTime()); } });
+
